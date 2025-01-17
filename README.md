@@ -1,4 +1,4 @@
-# discourse-watermark
+ # discourse-watermark
 
 A theme component to a watermark to Discourse. 
 
